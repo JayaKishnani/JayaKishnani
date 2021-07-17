@@ -1,6 +1,8 @@
 - 👋 
 - Hi, I’m Jaya Kishnani.
-- I am first year undergraduate from the department of Electronics and Communication engineering enrolled in it's dual degree course
+- I am first year undergraduate from the department of Electronics and Communication engineering enrolled in it's dual degree course at IIT Kharagpur.
+- [![Jaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayaKishnani)](https://github.com/JayaKishnani/github-readme-stats)
+
 -
 
 <!---
