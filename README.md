@@ -1,8 +1,8 @@
 - 👋 
-- Hi, I’m Jaya Kishnani.
-- I am a fourth year undergraduate from the department of Electronics and Electrical Communication engineering enrolled in it's dual degree course at IIT Kharagpur.
+- Hey there, I’m Jaya Kishnani.
+- I am a final year undergraduate from the department of Electronics and Electrical Communication (ECE) engineering enrolled in it's dual degree (Integrated Master's) course at IIT Kharagpur.
 - I am specializing in Vision and Intelligent systems (VIS).
-- I am interested in Natural Language processing and Machine learning. With ECE as my major I am also interested in embedded systems.
+- I am interested in Data Science and Natural Language processing. I have a knack for problem solving as well.
 - [![Jaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayaKishnani)](https://github.com/JayaKishnani/github-readme-stats)
 
 <!---
